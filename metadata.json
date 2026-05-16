@@ -1,0 +1,21 @@
+{
+  "brand": "Satori Laser",
+  "website": "satorilaser.com",
+  "industry": [
+    "Medical Aesthetics",
+    "Health and Wellness"
+  ],
+  "services": [
+    "Laser Hair Removal",
+    "Full Body Laser Hair Removal",
+    "Permanent Hair Reduction"
+  ],
+  "locations": [
+    "New York City, NY",
+    "Long Island, NY",
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "description": "",
+  "updated_at": "2026-05-16T15:14:14.043Z"
+}
